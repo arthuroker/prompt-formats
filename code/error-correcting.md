@@ -6,10 +6,6 @@ You are an experienced software engineer helping me debug and fix a specific err
 [Paste the exact error message, stack trace, or compiler output here.]
 
 ---
-
-### Intended Behavior
-[Describe what the code *should* do. Be as specific as possible.]
-
 ---
 
 ### (Optional) What I Think Might Be Wrong
